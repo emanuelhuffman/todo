@@ -1,2 +1,3 @@
-# todo
-Starting it back up - beginning with the todo list
+# Food List
+
+Food list app that calculates total calories.
